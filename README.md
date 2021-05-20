@@ -1,5 +1,5 @@
 ### Hi 👋
-## I'm Natália.
+# I am Natália.
 ### 💻 &nbsp;About Me 
 - 🤔 &nbsp; Exploring new technologies.
 - 🎓 &nbsp; Studying Frontend development.
